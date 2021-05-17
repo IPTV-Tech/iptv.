@@ -1,0 +1,126 @@
+#EXTM3U
+#EXTINF:-1,Moldova 1
+http://212.0.209.209:1935/live/M1Mlive/chunklist_w1567528460.m3u8
+#EXTINF:-1,Canal 2 HD
+http://livebeta.publika.md/LIVE/2/1500.m3u8
+#EXTINF:-1,Canal 3 HD
+https://livebeta.publika.md/LIVE/3/2000.m3u8
+#EXTINF:-1,Publica TV
+https://livebeta.publika.md/LIVE/P/2000.m3u8
+#EXTINF:-1,Moldova 2
+http://212.0.209.209:1935/live/M2Mlive/chunklist_w1459112842.m3u8
+#EXTINF:-1,Jurnal TV
+https://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=cdff9af2e065acf4283756d60b3f3b95d15792ea
+#EXTINF:-1,Prime HD
+https://livebeta.publika.md/LIVE/1/600.m3u8
+#EXTINF:-1,NTV Moldova
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:-1,MD: Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1,Kanal D HD
+http://212.0.215.115/KanalD/mpegts
+#EXTINF:-1,Antena 1
+https://live11es.antenaplay.ro/a1/a1_3000k.m3u8?starttime=1620927317&endtime=1620934547&source=web&token=yjYwTRTVuZU8QUll_oma0lknjfU=
+#EXTINF:-1,ZU TV
+https://live8useast.antenaplay.ro/zutv/zutv_3000k.m3u8?starttime=1620927503&endtime=1620934733&source=web&token=jGUki9RIsahK4uhGxycDIf7JeLs=
+#EXTINF:-1,Comedy Play
+https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_b1000000.m3u8?starttime=1620927600&endtime=1620942030&source=web&token=97W5bT8p6FedFzzBmV_06iMkP3s%3D
+#EXTINF:-1,Antena Star
+https://live10de.antenaplay.ro/astars/astars_3000k.m3u8?starttime=1620927636&endtime=1620934866&source=web&token=iTLtxbmKu8aph0ojVqZnJW_oy5Y=
+#EXTINF:-1,Mireasa
+https://live11es.antenaplay.ro/mireasa/1000.m3u8?starttime=1620927841&endtime=1620935071&source=web&token=C7Lu1XdmucwJN0wfhyHhp38SEXE=
+#EXTINF:-1,Happy Channel
+https://live9uswest.antenaplay.ro/happy/happy_3000k.m3u8?starttime=1620927883&endtime=1620935113&source=web&token=WhwCmNHA5ym-7tJEnThyMvc3r60=
+#EXTINF:-1,Antena 3
+https://live9uswest.antenaplay.ro/a3/a3_3000k.m3u8?starttime=1620927926&endtime=1620935156&source=web&token=O8V7gmbdGFQHJrols3aOv66FojE=
+#EXTINF:-1,Antena Monden
+https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/chunklist_b400000.m3u8?starttime=1620927961&endtime=1620942391&source=web&token=fgPSGoO8bykZ1aXiQ92VEhG8Wqw%3D
+#EXTINF:-1 ,Disney
+http://212.0.215.115/DisneyChannel/mpegts
+#EXTINF:-1, Minimax
+http://212.0.215.115/Minimax/mpegts
+#EXTINF:-1, Nickledeon
+http://212.0.215.115/Nick/mpegts
+#EXTINF:-1, Мульт Bravo
+http://212.0.215.115/Mult/mpegts
+#EXTINF:-1,Prima TV
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w1108769554.m3u8
+#EXTINF:-1,Nasu TV
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist_w1713485760.m3u8
+#EXTINF:-1,Pro TV International
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/SHUBC1BwcQCoL6bLOhHVZQ==,1621155592/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1,ALPEPH NEWS
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/chunklist_b3098304.m3u8
+#EXTINF:-1,TVC21
+http://212.0.215.115/TVC21/mpegts
+#EXTINF:-1,N4
+http://212.0.215.115/N4/mpegts
+#EXTINF:-1,RTR_MOLDOVA
+http://212.0.215.106/RTR/mpegts
+#EXTINF:-1,TV Elita
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0, Bălti TV
+http://77.89.199.174:81/hls/live2.m3u8
+#EXTINF:-1, Euro Tv
+http://212.0.215.115/EuroTV/mpegts
+#EXTINF:-1, Agro Tv Moldova
+http://212.0.215.115/AgroTV/mpegts
+#EXTINF:0,МИР Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1,Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,47 канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",ОТР
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1, TV 1000
+http://212.0.215.115/TV1000/mpegts
+#EXTINF:-1, Kino TV
+http://212.0.215.115/KinoTV/mpegts
+#EXTINF:-1 ,Kinocomedia
+http://212.0.215.115/Comedia/mpegts
+#EXTINF:-1, FOX
+http://212.0.215.115/Fox/mpegts
+#EXTINF:-1 ,Sony Turbo
+http://212.0.215.115/SonyTurbo/mpegts
+#EXTINF:-1 ,Star Cinema
+http://212.0.215.115/StarCinema/mpegts
+#EXTINF:0,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:0,Discovery Channel
+http://212.0.215.106/Discovery/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=",РОССИЯ 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1,Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,UTV MUSIC RO
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+#EXTINF:-1,Retro Music Tv 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,One.by
+#EXTGRP:MUSIC
+http://rtmp.one.by:1200
+#EXTINF:-1,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1,One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1,One.by Россия HD
+http://rtmp.one.by:2300
+
+
+
+
+
+
+
+
