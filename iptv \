@@ -35,6 +35,14 @@ https://live9uswest.antenaplay.ro/happy/happy_3000k.m3u8?starttime=1620927883&en
 https://live9uswest.antenaplay.ro/a3/a3_3000k.m3u8?starttime=1620927926&endtime=1620935156&source=web&token=O8V7gmbdGFQHJrols3aOv66FojE=
 #EXTINF:-1,Antena Monden
 https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/chunklist_b400000.m3u8?starttime=1620927961&endtime=1620942391&source=web&token=fgPSGoO8bykZ1aXiQ92VEhG8Wqw%3D
+#EXTINF:-1,Pro Tv Chisinau
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/70.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,DAVINCI LEARNING
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/51.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,BOOMERANG
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/50.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,CARTOON NETWORK
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/20.m3u8?auth=OTMuMTE2LjI4LjYy
 #EXTINF:-1 ,Disney
 http://212.0.215.115/DisneyChannel/mpegts
 #EXTINF:-1, Minimax
@@ -146,8 +154,46 @@ https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/67.m3u8?auth=OTMuMTE2L
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/68.m3u8?auth=OTMuMTE2LjI4LjYy
 #EXTINF:-1,FILMNOW
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/13.m3u8?auth=OTMuMTE2LjI4LjYy
-#EXTINF:-1,Jador
-https://www.youtube.com/watch?v=lM3A5OeAbkc
+#EXTINF:-1,HBO 1
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/14.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,HBO 2
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/15.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,HBO 3
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/16.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,BO TV
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/17.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,DIVA
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/6.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,FILMBOX
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/18.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,FILMBOX Premium
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/19.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,Profit TV
+https://stream1.1616.ro:1945/profit/livestream/chunklist.m3u8
+#EXTINF:-1,Agro TV
+https://canale.live/extern.m3u8?id=agrotv.streamnet.ro/mobile_tv/agrotv.m3u8&auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,DIGI Life
+https://sport.deploys.work:2083/live/www/delivery/30.m3u8?auth=OTMuMTE2LjI4LjYy&token=TURdUUZZEgpEXgNTAlFUDgcDAwdaUggCAw0NVFYHVQQCBVQJBVQJBFNEGhJDFUdTVg89D1wSAgAFGRsRRwNCa18CFwoXAxIcRBJfXVVDDwYbQBIPXBICEQYFD1QHRBwWUx5BVUdfUVw5AlNGWQJQFA0MFwpUHBpcW2pdAVkHXlAUXBcAFx0SWRUWFAoSLFpaUxYHCl1TV14VZnhGGERSXUIUVERQEwoSV1EPBRJNF1VYFwwSSkkaCRd4fUYYRFVMQgNbQ1xeXhJcRFsDRVkXGhULETlKVUtHR1BYCVEUEg4UVhccF1xRSDkFWV5eBFZCXg0MFRoKGgMXGRsJWwhZQFkUakBcVRIKRFcBBgFSF0s=
+#EXTINF:-1,DIGI ANIMAL WORLD
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/36.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/31.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/53.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,VIASAT EXPLORER
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/33.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,Discovery Science
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/79.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,VIASAT NATURE
+https://canale.live/mtv.m3u8?id=moozhits&auth=OTMuMTE2LjI4LjYye/www/delivery/22.m3u8?auth=OTMuMTE2LjI4LjYy&token=TURdUUZZEgpEAlMEBgAAUgQGWlMNCFtWVAQBXQBXAwBQUw1VAgIHAVNEGhJDFUdTVg89D1wSAgEHGRsRRwNCa18CFwoXAxIcRBJfXVVDDwYbQBIPXBICEQYFCFcCRBwWUx5BVUdfUVw5AlNGWQJQFA0MFwpUHBpcW2pdAVkHXlAUXBcAFx0SWRUWFAoSLFpaUxYHCl1TV14VZnhGGERSXUIUVERQEwoSV1EBCRJNF1VYFwwSSkkaCRd4fUYYRFVMQgNbQ1xeXhJcRFsDRVkXGhULETlKVUtHR1BYCVEUEg4UVhccF1xRSDkFWV5eBFZCXg0MFRoKGgMXGRsJWwhZQFkUakBcVRIKRFUGCRIcVIASAT NATURE
+#EXTINF:-1,MOOZ RO
+https://canale.live/mtv.m3u8?id=moozro&auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,MOOZ HIT
+https://canale.live/mtv.m3u8?id=moozhits&auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,VH1
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/25.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,MTV
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/24.m3u8?auth=OTMuMTE2LjI4LjYy
 
 
 
