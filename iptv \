@@ -18,7 +18,7 @@ http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:-1,MD: Accent TV
 http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1,Kanal D HD
-http://212.0.215.115/KanalD/mpegts
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/1.m3u8?auth=OTMuMTE2LjI4LjYy
 #EXTINF:-1,Antena 1
 https://live11es.antenaplay.ro/a1/a1_3000k.m3u8?starttime=1620927317&endtime=1620934547&source=web&token=yjYwTRTVuZU8QUll_oma0lknjfU=
 #EXTINF:-1,ZU TV
@@ -118,6 +118,54 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 #EXTINF:-1,Paprica TV
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/44.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,Digi 24
+https://sport.deploys.work:2083/live/www/delivery/7.m3u8?auth=OTMuMTE2LjI4LjYy&token=TURdUUZZEgpEVwIIUlQFUwQAUQUJBVtQVgYIBQZUU1JVU1YDAFUIB1NEGhJDFUdTVg89D1wSAgQZF0wXURRvXVJEDxIHExwSEg9bVRJbBRoVEgsCGgoaAgINC1YWShJRThJQQltQXG8CA0BZUwQXDFkXDgoUElddalFcCVUIVBYMRAUSGRNZQxZEDBJ9DllSQwcOA1tfVRNmdBtIFgRZQEQHQVUXCxIBVF4CEhxDVllCDBYUQRICEXhxG0gWA0hAUwhGWVpfEgpECwVFCEMZFF4RPRRdQ0xBUFRUAUZEChYGRBkSWFBIbwUJWF5VAkFfWAwRRAISCBEZF1QLWg9EW0Q5RVlREwoSV1EDCQBDSA==
+#EXTINF:-1,TVR 1
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/8.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,TVR 2
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/9.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,TVR 3
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/10.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,PRO TV
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/Lo2FKVnTeaFa5otJTxaeUQ==,1621450653/channels/cme-ro-protv/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1,PRO 2
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/yK2JWjDPFJjSSsqK4OEEvg==,1621450300/channels/cme-ro-pro2/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1,PRO CINEMA
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/nCGO5bLtRAyxwzdQaLSnEQ==,1621450791/channels/cme-ro-procinema/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1,PRO GOLD
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/8oTWB6v_T44N9X_Vj0pT-w==,1621450677/channels/cme-ro-progold/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1,National TV
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/12.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,Romania TV
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/47.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,B1 TV
+https://canale.live/b1_640-.m3u8/20210519193421720-298
+#EXTINF:-1,Telekom Sport 2
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/67.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,Telekom Sport 3
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/68.m3u8?auth=OTMuMTE2LjI4LjYy
+#EXTINF:-1,FILMNOW
+https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/13.m3u8?auth=OTMuMTE2LjI4LjYy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
