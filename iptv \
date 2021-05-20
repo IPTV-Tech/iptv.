@@ -193,7 +193,7 @@ https://canale.live/mtv.m3u8?id=moozhits&auth=OTMuMTE2LjI4LjYy
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/25.m3u8?auth=OTMuMTE2LjI4LjYy
 #EXTINF:-1,MTV
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/24.m3u8?auth=OTMuMTE2LjI4LjYy
-#EXTINF:-1,Youtube
+#EXTINF:-1,Youtube.
 https://www.youtube.com/watch?v=sb3yU2L5U7Y
 
 
