@@ -36,8 +36,7 @@ https://live9uswest.antenaplay.ro/a3/a3_3000k.m3u8?starttime=1620927926&endtime=
 #EXTINF:-1,Antena Monden
 https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/chunklist_b400000.m3u8?starttime=1620927961&endtime=1620942391&source=web&token=fgPSGoO8bykZ1aXiQ92VEhG8Wqw%3D
 #EXTINF:-1,Pro Tv Chisinau
-https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/70.m3u8?auth=OTMuMTE2LjI4LjYy
-#EXTINF:-1,DAVINCI LEARNING
+https://dns2.deploys.work:2083/live/www/delivery/70.m3u8?auth=OTMuMTE2LjI4LjYy&token=TURdUUZZEgpEUFdTU1gNDwZWUlUABgwKAlAAUQAFBAdXBVdVBwIFAl5EGhJDFUdTVg89D1wSAgQFGRsRRwNCa18CFwoXAxIcRBJfXVVDDwYbQBIPXBICEQQADFcBRBwWUx5BVUdfUVw5AlNGWQJQFA0MFwpUHBpcW2pdAVkHXlAUXBcAFx0SWRUWFAoSLFpaUxYHCl1TV14VZnhGGERSXUIUVERQEwoSVF4OBRJNF1VYFwwSSkkaCRd4fUYYRFVMQgNbQ1xeXhJcRFsDRVkXGhULETlKVUtHR1BYCVEUEg4UVhccF1xRSDkFWV5eBFZCXg0MFRoKGgMXGRsJWwhZQFkUakBcVRIKRFcBCAdZF0s=#EXTINF:-1,DAVINCI LEARNING
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/51.m3u8?auth=OTMuMTE2LjI4LjYy
 #EXTINF:-1,BOOMERANG
 https://ns3051855.ip-46-105-124.eu:2096/live/www/delivery/50.m3u8?auth=OTMuMTE2LjI4LjYy
